@@ -1,6 +1,6 @@
 package com.yunlei.jdbc.dao.test;
 /**
- * JD
+ * JD1
  */
 import java.sql.CallableStatement;
 import java.sql.Connection;

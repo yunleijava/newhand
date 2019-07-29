@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 /**
- * JDBC工具类
+ * JDBC工具类1
  * 
  * @author mysql
  *

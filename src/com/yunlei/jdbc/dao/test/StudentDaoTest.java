@@ -9,7 +9,7 @@ import com.yunlei.jdbc.dao.impl.StudentDaoImpl;
 import com.yunlei.jdbc.domain.Student;
 
 /**
- * 学生表DAO测试类
+ * 学生表DAO测试类1
  * @author mysql
  *
  */

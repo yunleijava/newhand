@@ -14,7 +14,7 @@ import com.yunlei.jdbc.domain.Student;
 import com.yunlei.jdbc.util.JDBCUtil;
 
 /**
- * 学生表方法的实现类
+ * 学生表方法的实现类1
  * 
  * @author mysql
  *

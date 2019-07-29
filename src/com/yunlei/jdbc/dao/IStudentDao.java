@@ -1,6 +1,6 @@
 package com.yunlei.jdbc.dao;
 /**
- * DAO学生表操作方法的接口
+ * DAO学生表操作方法的接口1
  */
 import java.util.List;
 

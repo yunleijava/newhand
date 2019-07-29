@@ -1,6 +1,6 @@
 package com.yunlei.jdbc.domain;
 /**
- * student表数据库映射
+ * student表数据库映射1
  * 符合JAVABbean规范
  * @author mysql
  *
